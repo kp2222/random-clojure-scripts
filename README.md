@@ -1,8 +1,9 @@
-# website-crawler
+# Scripts
 
-A Clojure library designed to ... well, that part is up to you.
 
-## Usage
+
+## RUN
+    lein exec src/scripts/crawler.clj
 
 FIXME
 
